@@ -1,4 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Griffy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Griffy&family=Kalam:wght@300;400&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
 body {
-font-family: Arial, Helvetica, sans-serif;
-color: rgb(66, 29, 146);
+    font-family: 'Griffy', cursive;
+font: weight 400;
+}
+
+
+p {
+    font-family: 'Kalam', cursive;
 }
